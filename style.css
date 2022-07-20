@@ -259,7 +259,7 @@ hr {
     }
 }
 
-@media only screen and (min-width:668px) and (max-width:922px) {
+@media only screen and (min-width:668px) and (max-width:1023px) {
    /* greatest show style */
    .greatest-show{
     width: 100%;
